@@ -45,7 +45,7 @@ The extension uses the MobileNet model from TensorFlow.js, a lightweight and eff
 | **Number of Classes** | 1000 (based on the ImageNet dataset)             |
 | **Performance**       | Real-time inference optimized for in-browser use |
 
-###⚙️ How It's Used
+### ⚙️ How It's Used
 On image hover, the extension:
 
 Resizes the image to the required input dimensions (224x224).
